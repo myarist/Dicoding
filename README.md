@@ -35,7 +35,7 @@
 
 <h1 align="center">Learning Track</h1>
 
-## Machine Learning Developer <a href='README/6.png'><img src='README/ml.png' align="right" height="60" /></a>
+## Machine Learning Developer <a href='README/6.png'><img src='README/ml.png' align="right" height="100" /></a>
 
 <details><summary>Deskripsi</summary>
 
