@@ -67,7 +67,7 @@
 
     Pelajari materi dasar pengembangan machine learning dan langkah menciptakan model machine learning pertamamu untuk memproses data.
 
-    - Project Image Classification [[📁](https://github.com/myarist/Rock-Paper-Scissors)]
+    - Project Image Classification [[📁](https://github.com/myarist/Dicoding/blob/main/Project/Rock%20Paper%20Scissor%20-%20Image.ipynb)]
 
         <a href="https://github.com/myarist/Rock-Paper-Scissors">
             <img src="README/MLIntro.gif">
@@ -79,13 +79,13 @@
 
     Pelajari implementasi machine learning pada industri mulai dari computer vision, natural language, serta deployment proyek machine learning.
 
-    - Project Tweet Emotion Classification [[📁](#)]
+    - Project Tweet Emotion Classification [[📁](https://github.com/myarist/Dicoding/blob/main/Project/Tweet%20Emotion%20Classification%20-%20NLP.ipynb)]
 
         <a href="#">
             <img src="README/TweetEmotion.png">
         </a>
 
-    - Weather Time Series Forecating [[📁](#)]
+    - Weather Time Series Forecating [[📁](https://github.com/myarist/Dicoding/blob/main/Project/Weather%20Forecasting%20-%20Time%20Series.ipynb)]
 
         <a href="#">
             <img src="README/TSForecast.png">
