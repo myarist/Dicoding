@@ -10,7 +10,7 @@
   Visi Dicoding adalah <strong>menjadi platform edukasi teknologi terdepan yang mendorong akses literasi digital yang lebih luas untuk semua</strong>. Dicoding memiliki misi untuk <strong>mengakselerasi transisi Indonesia menuju dunia digital melalui pendidikan teknologi yang mentransformasi kehidupan</strong>.
 </p>
 
-![Learn](README/hero.png)
+<!-- ![Learn](README/hero.png) -->
 
 <p align="center">
   Kini semua bangsa bergerak menuju dunia digital yang bertumpu pada inovasi teknologi di semua sendi kehidupan. Kami yakin pendidikan teknologi adalah fondasi bagi setiap bangsa agar menjadi yang terdepan dalam menghadapi dunia digital. Dicoding hadir sebagai platform pendidikan teknologi yang membantu menghasilkan talenta digital berstandar global. Semua demi mengakselerasi Indonesia agar menjadi yang terdepan.
@@ -61,21 +61,35 @@
 
     Belajar Python yang menjadi landasan penting berbagai tren industri seperti ilmu data, pemelajaran mesin, dan manajemen infrastruktur.
 
-3. Belajar Machine Learning untuk Pemula [[🔍](https://www.dicoding.com/academies/184)] [[📃](https://www.dicoding.com/certificates/98XW6161LXM3)] [[📁](https://github.com/myarist/Rock-Paper-Scissors)]
+3. Belajar Machine Learning untuk Pemula [[🔍](https://www.dicoding.com/academies/184)] [[📃](https://www.dicoding.com/certificates/98XW6161LXM3)]
 
     ![](README/MLIntro.jpg)
 
     Pelajari materi dasar pengembangan machine learning dan langkah menciptakan model machine learning pertamamu untuk memproses data.
 
-    <a href="https://github.com/myarist/Rock-Paper-Scissors">
-        <img src="README/MLIntro.gif">
-    </a>
+    - Project Image Classification [[📁](https://github.com/myarist/Rock-Paper-Scissors)]
 
-4. Belajar Pengembangan Machine Learning [[🔍](https://www.dicoding.com/academies/185)] [[📃](#)] [[📁](#)]
+        <a href="https://github.com/myarist/Rock-Paper-Scissors">
+            <img src="README/MLIntro.gif">
+        </a>
+
+4. Belajar Pengembangan Machine Learning [[🔍](https://www.dicoding.com/academies/185)] [[📃](#)]
 
     ![](README/MLAdv.jpg)
 
     Pelajari implementasi machine learning pada industri mulai dari computer vision, natural language, serta deployment proyek machine learning.
+
+    - Project Tweet Emotion Classification [[📁](#)]
+
+        <a href="#">
+            <img src="README/TweetEmotion.png">
+        </a>
+
+    - Weather Time Series Forecating [[📁](#)]
+
+        <a href="#">
+            <img src="README/TSForecast.png">
+        </a>
 
 </details>
 
