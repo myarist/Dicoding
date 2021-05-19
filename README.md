@@ -48,51 +48,30 @@
 
 </details>
 
-1. Belajar Dasar Visualisasi Data 
+1. Belajar Dasar Visualisasi Data [[🔍](https://www.dicoding.com/academies/177)]  [[📃](https://www.dicoding.com/certificates/07Z6L9LNWPQR)]
 
     ![](README/visual.jpg)
 
     Pelajari teknik dasar untuk representasi hasil secara visual sehingga dapat menceritakan dan mempresentasikan data secara efektif.
-    
-    [🔍 Modul](https://www.dicoding.com/academies/177) 
-    
-    [📃 Sertifikat](https://www.dicoding.com/certificates/07Z6L9LNWPQR)
 
-2. Memulai Pemrograman Dengan Python
+2. Memulai Pemrograman Dengan Python [[🔍](https://www.dicoding.com/academies/86)] [[📃](https://www.dicoding.com/certificates/JMZVMJYOQZN9)]
 
     ![](README/python.jpg)
 
     Belajar Python yang menjadi landasan penting berbagai tren industri seperti ilmu data, pemelajaran mesin, dan manajemen infrastruktur.
 
-    [🔍 Modul](https://www.dicoding.com/academies/86) 
-    
-    [📃 Sertifikat](https://www.dicoding.com/certificates/JMZVMJYOQZN9)
-
-3. Belajar Machine Learning untuk Pemula
+3. Belajar Machine Learning untuk Pemula [[🔍](https://www.dicoding.com/academies/184)] [[📃](https://www.dicoding.com/certificates/98XW6161LXM3)] [[📁](https://github.com/myarist/Rock-Paper-Scissors)]
 
     ![](README/MLIntro.jpg)
 
     Pelajari materi dasar pengembangan machine learning dan langkah menciptakan model machine learning pertamamu untuk memproses data.
 
-    [🔍 Modul](https://www.dicoding.com/academies/184) 
-    
-    [📃 Sertifikat](https://www.dicoding.com/certificates/98XW6161LXM3)
+    <a href="https://github.com/myarist/Rock-Paper-Scissors">
+        <img src="README/MLIntro.gif">
+    </a>
 
-    [⚙ Project](https://github.com/myarist/Rock-Paper-Scissors)
-
-    ![](README/MLIntro.gif)
-
-4. Belajar Pengembangan Machine Learning
+4. Belajar Pengembangan Machine Learning [[🔍](https://www.dicoding.com/academies/185)] [[📃](#)] [[📁](#)]
 
     ![](README/MLAdv.jpg)
 
     Pelajari implementasi machine learning pada industri mulai dari computer vision, natural language, serta deployment proyek machine learning.
-
-    
-    [🔍 Modul](https://www.dicoding.com/academies/185) 
-    
-    [📃 Sertifikat](#)
-
-    [⚙ Project](#)
-
-    ![](#)
