@@ -108,7 +108,7 @@
 
 2. Architecting on AWS (Membangun Arsitektur Cloud di AWS) [[🔍](https://www.dicoding.com/academies/266)]  [[📃](#)]
 
-    ![](README/archiAWS.jpg)
+    ![](README/ArchiAWS.jpg)
 
     Pelajari cara membangun arsitektur cloud di AWS, dari yang sederhana dengan Amazon S3, hingga yang canggih dengan serverless.
 
