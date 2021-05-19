@@ -51,7 +51,7 @@
 
 1. Belajar Dasar Visualisasi Data [[🔍](https://www.dicoding.com/academies/177)]  [[📃](https://www.dicoding.com/certificates/07Z6L9LNWPQR)]
 
-    <img src="README/visual.jpg" height="200">
+    ![](README/visual.jpg)
 
     Pelajari teknik dasar untuk representasi hasil secara visual sehingga dapat menceritakan dan mempresentasikan data secara efektif.
 
