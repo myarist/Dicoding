@@ -49,21 +49,21 @@
 
 <details><summary>Daftar Modul</summary>
 
-1. Belajar Dasar Visualisasi Data [[🔍](https://www.dicoding.com/academies/177)]  [[📃](https://www.dicoding.com/certificates/07Z6L9LNWPQR)]
+1. Belajar Dasar Visualisasi Data [[📃](https://www.dicoding.com/certificates/07Z6L9LNWPQR)]
 
-    ![](README/visual.jpg)
+    <a href='https://www.dicoding.com/academies/177'><img src="README/visual.jpg"></a>
 
     Pelajari teknik dasar untuk representasi hasil secara visual sehingga dapat menceritakan dan mempresentasikan data secara efektif.
 
-2. Memulai Pemrograman Dengan Python [[🔍](https://www.dicoding.com/academies/86)] [[📃](https://www.dicoding.com/certificates/JMZVMJYOQZN9)]
+2. Memulai Pemrograman Dengan Python [[📃](https://www.dicoding.com/certificates/JMZVMJYOQZN9)]
 
-    ![](README/python.jpg)
+    <a href='https://www.dicoding.com/academies/86'><img src="README/python.jpg"></a>
 
     Belajar Python yang menjadi landasan penting berbagai tren industri seperti ilmu data, pemelajaran mesin, dan manajemen infrastruktur.
 
-3. Belajar Machine Learning untuk Pemula [[🔍](https://www.dicoding.com/academies/184)] [[📃](https://www.dicoding.com/certificates/98XW6161LXM3)]
+3. Belajar Machine Learning untuk Pemula [[📃](https://www.dicoding.com/certificates/98XW6161LXM3)]
 
-    ![](README/MLIntro.jpg)
+    <a href='https://www.dicoding.com/academies/184'><img src="README/MLIntro.jpg"></a>
 
     Pelajari materi dasar pengembangan machine learning dan langkah menciptakan model machine learning pertamamu untuk memproses data.
 
@@ -73,9 +73,9 @@
             <img src="README/MLIntro.gif">
         </a>
 
-4. Belajar Pengembangan Machine Learning [[🔍](https://www.dicoding.com/academies/185)] [[📃](#)]
+4. Belajar Pengembangan Machine Learning [[📃](#)]
 
-    ![](README/MLAdv.jpg)
+    <a href='https://www.dicoding.com/academies/185'><img src="README/MLAdv.jpg"></a>
 
     Pelajari implementasi machine learning pada industri mulai dari computer vision, natural language, serta deployment proyek machine learning.
 
@@ -114,15 +114,15 @@
 
 <details><summary>Daftar Modul</summary>
 
-1. Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) [[🔍](https://www.dicoding.com/academies/251)]  [[📃](#)]
+1. Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) [[📃](#)]
 
-    ![](README/cloudAWS.jpg)
+    <a href='https://www.dicoding.com/academies/251'><img src="README/cloudAWS.jpg"></a>
 
     Pelajari materi dasar Cloud dengan menggunakan AWS, dari konsep cloud computing, hingga cara membangun arsitektur yang baik.
 
-2. Architecting on AWS (Membangun Arsitektur Cloud di AWS) [[🔍](https://www.dicoding.com/academies/266)]  [[📃](#)]
+2. Architecting on AWS (Membangun Arsitektur Cloud di AWS) [[📃](#)]
 
-    ![](README/ArchiAWS.jpg)
+    <a href='https://www.dicoding.com/academies/266'><img src="README/ArchiAWS.jpg"></a>
 
     Pelajari cara membangun arsitektur cloud di AWS, dari yang sederhana dengan Amazon S3, hingga yang canggih dengan serverless.
 
