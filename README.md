@@ -30,10 +30,6 @@
 
 ---
 
-<!-- <h1 align="center">Learning Track</h1> -->
-
-<!-- ## Machine Learning Developer <a href='README/ml.png'><img src='README/ml.png' align="right" height="100" /></a> -->
-
 <p align="center">
   <img src="README/ml.png" height="125">
 </p>
@@ -51,9 +47,11 @@
 
 </details>
 
+<details><summary>Daftar Modul</summary>
+
 1. Belajar Dasar Visualisasi Data [[🔍](https://www.dicoding.com/academies/177)]  [[📃](https://www.dicoding.com/certificates/07Z6L9LNWPQR)]
 
-    ![](README/visual.jpg)
+    <img src="README/visual.jpg" height="200">
 
     Pelajari teknik dasar untuk representasi hasil secara visual sehingga dapat menceritakan dan mempresentasikan data secara efektif.
 
@@ -78,3 +76,40 @@
     ![](README/MLAdv.jpg)
 
     Pelajari implementasi machine learning pada industri mulai dari computer vision, natural language, serta deployment proyek machine learning.
+
+</details>
+
+---
+
+<p align="center">
+  <img src="README/aws.svg" height="125">
+</p>
+
+<h1 align="center">Cloud and Back-End Developer <br>Scholarship Program</h1>
+
+<details><summary>Deskripsi</summary>
+
+<p align="justify">
+    Back-End Developer merupakan salah satu profesi paling berkembang di Indonesia (LinkedIn 2020 Emerging Jobs Report Indonesia). Spesialisasi ini jadi incaran di kalangan industri IT dan layanannya, perangkat lunak, internet hingga layanan keuangan. Secara job-desk, developer di bidang ini bertanggung jawab untuk menyediakan kebutuhan yang tak terlihat oleh pengguna web, seperti bagaimana data disimpan, diolah, serta ditransaksikan secara aman.
+</p>
+<p align="justify">
+    Demikian krusial peran Back-End Developer, namun jumlah programmer yang sangat ahli di bidang ini, sangat terbatas. Sebabnya, prinsip pembelajaran programming di sekolah formal memang didesain untuk menyajikan ragam pilihan belajar. Siswa diharapkan memilih dan mendalami sendiri spesialisasi yang diinginkannya, termasuk dalam hal ini tema Back-End Developer. Faktanya, terdapat 400.000 pembelajar-lulusan IT setiap tahunnya serta ribuan pendidik di bidang IT yang berpotensi mengisi dan memajukan profesi Back-End Developer di tanah air.
+</p>
+
+</details>
+
+<details><summary>Daftar Modul</summary>
+
+1. Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) [[🔍](https://www.dicoding.com/academies/251)]  [[📃](#)]
+
+    ![](README/cloudAWS.jpg)
+
+    Pelajari materi dasar Cloud dengan menggunakan AWS, dari konsep cloud computing, hingga cara membangun arsitektur yang baik.
+
+2. Architecting on AWS (Membangun Arsitektur Cloud di AWS) [[🔍](https://www.dicoding.com/academies/266)]  [[📃](#)]
+
+    ![](README/archiAWS.jpg)
+
+    Pelajari cara membangun arsitektur cloud di AWS, dari yang sederhana dengan Amazon S3, hingga yang canggih dengan serverless.
+
+</details>
