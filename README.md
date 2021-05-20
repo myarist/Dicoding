@@ -32,6 +32,7 @@
 <br>
 <p align="center">
   <img src="README/gdg.png" height="60">
+  <img src="README/ibm.png" height="60" float="left">
 </p>
 
 <h2 align="center">Machine Learning Developer</h2>
