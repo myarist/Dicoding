@@ -29,10 +29,10 @@
 <br>
 
 ---
+
 <br>
 <p align="center">
   <img src="README/gdg.png" height="60">
-  <img src="README/ibm.png" height="60" float="left">
 </p>
 
 <h2 align="center">Machine Learning Developer</h2>
@@ -126,5 +126,34 @@
     <a href='https://www.dicoding.com/academies/266'><img src="README/ArchiAWS.jpg"></a>
 
     Pelajari cara membangun arsitektur cloud di AWS, dari yang sederhana dengan Amazon S3, hingga yang canggih dengan serverless.
+
+</details>
+
+---
+<br>
+<p align="center">
+  <img src="README/ibm.png" height="70">
+</p>
+
+<h2 align="center">Learning How to Make Cognitive Apps</h2>
+
+<details><summary>Deskripsi</summary>
+
+<p align="justify">
+    Antara 2018 dan 2019, perusahaan yang menggunakan Artificial Intelligence (AI) tumbuh dari 4% menjadi 14% (Gartner's 2019 CIO Agenda survey). IBM Watson sebagai sebuah platform teknologi kognitif/kecerdasan buatan, mengusung replikasi kemampuan kognitif manusia, termasuk belajar, berinteraksi, mengenali objek, menganalisa, dan menarik kesimpulan dari data teks atau multimedia. Dengan dukungan IBM sebagai perusahaan teknologi, IBM Watson™ yang tersedia sebagai Software-as-a-Services (SaaS) dapat dimanfaatkan untuk mengembangkan kemampuan kognitif dan personalisasi dalam produk dengan sangat mudah.
+</p>
+<p align="justify">
+    Kelas ini didesain oleh IBM bersama tim expert dari Dicoding untuk developer yang ingin mempelajari aplikasi kognitif dengan menggunakan teknologi IBM Watson. Tools lain yang digunakan adalah CloudFoundry (CF) CLI dan Postman. Modul-modul dalam kelas ini adalah studi kasus pemanfaatan dan tersedia opsi-opsi sebagai berikut: conversation, text processing, image recognition, natural language understanding, dan data insights.
+</p>
+
+</details>
+
+<details><summary>Daftar Modul</summary>
+
+1. Belajar Membuat Aplikasi Kognitif [[📃](https://www.dicoding.com/certificates/MRZMG3LGKZYQ)]
+
+    <a href='https://www.dicoding.com/academies/68'><img src="README/Kognitif.jpg"></a>
+
+    Pelajari teknologi kognitif dan kecerdasan buatan dengan layanan IBM Watson. 
 
 </details>
