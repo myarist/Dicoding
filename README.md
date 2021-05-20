@@ -34,7 +34,7 @@
   <img src="README/gdg.png" height="60">
 </p>
 
-<h1 align="center">Machine Learning Developer</h1>
+<h2 align="center">Machine Learning Developer</h2>
 
 <details><summary>Deskripsi</summary>
 
@@ -99,7 +99,7 @@
   <img src="README/aws.png" height="70">
 </p>
 
-<h1 align="center">Cloud and Back-End Developer <br>Scholarship Program</h1>
+<h2 align="center">Cloud and Back-End Developer Scholarship</h2>
 
 <details><summary>Deskripsi</summary>
 
