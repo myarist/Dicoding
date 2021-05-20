@@ -31,9 +31,8 @@
 ---
 <br>
 <p align="center">
-  <img src="README/gdg.png" height="50">
+  <img src="README/gdg.png" height="60">
 </p>
-<br>
 
 <h1 align="center">Machine Learning Developer</h1>
 
@@ -97,7 +96,7 @@
 ---
 
 <p align="center">
-  <img src="README/aws.svg" height="125">
+  <img src="README/aws.png" height="125">
 </p>
 
 <h1 align="center">Cloud and Back-End Developer <br>Scholarship Program</h1>
