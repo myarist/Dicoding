@@ -114,13 +114,13 @@
 
 <details><summary>Daftar Modul</summary>
 
-1. Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) [[📃](#)]
+1. Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) [[📃](https://www.dicoding.com/certificates/N9ZOD166RPG5)]
 
     <a href='https://www.dicoding.com/academies/251'><img src="README/cloudAWS.jpg"></a>
 
     Pelajari materi dasar Cloud dengan menggunakan AWS, dari konsep cloud computing, hingga cara membangun arsitektur yang baik.
 
-2. Architecting on AWS (Membangun Arsitektur Cloud di AWS) [[📃](#)]
+2. Architecting on AWS (Membangun Arsitektur Cloud di AWS) [[📃](https://www.dicoding.com/certificates/KEXL4D0JYXG2)]
 
     <a href='https://www.dicoding.com/academies/266'><img src="README/ArchiAWS.jpg"></a>
 
