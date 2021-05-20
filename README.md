@@ -29,10 +29,11 @@
 <br>
 
 ---
-
+<br>
 <p align="center">
-  <img src="README/ml.png" height="125">
+  <img src="README/gdg.png" height="50">
 </p>
+<br>
 
 <h1 align="center">Machine Learning Developer</h1>
 
