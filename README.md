@@ -94,9 +94,9 @@
 </details>
 
 ---
-
+<br>
 <p align="center">
-  <img src="README/aws.png" height="125">
+  <img src="README/aws.png" height="70">
 </p>
 
 <h1 align="center">Cloud and Back-End Developer <br>Scholarship Program</h1>
