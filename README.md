@@ -67,20 +67,26 @@
     <a href='https://www.dicoding.com/academies/184'><img src="README/MLIntro.jpg"></a>
 
     Pelajari materi dasar pengembangan machine learning dan langkah menciptakan model machine learning pertamamu untuk memproses data.
+  
+    <details><summary>Project</summary>
 
-    - Project Image Classification [[📁](https://github.com/myarist/Dicoding/blob/main/Project/Rock%20Paper%20Scissor%20-%20Image.ipynb)]
+    - Image Classification [[📁](https://github.com/myarist/Dicoding/blob/main/Project/Rock%20Paper%20Scissor%20-%20Image.ipynb)]
 
         <a href="https://github.com/myarist/Rock-Paper-Scissors">
             <img src="README/MLIntro.gif">
         </a>
+  
+    </details>
 
 4. Belajar Pengembangan Machine Learning [[📃](#)]
 
     <a href='https://www.dicoding.com/academies/185'><img src="README/MLAdv.jpg"></a>
 
     Pelajari implementasi machine learning pada industri mulai dari computer vision, natural language, serta deployment proyek machine learning.
+  
+    <details><summary>Project</summary>
 
-    - Project Tweet Emotion Classification [[📁](https://github.com/myarist/Dicoding/blob/main/Project/Tweet%20Emotion%20Classification%20-%20NLP.ipynb)]
+    - Tweet Emotion Classification [[📁](https://github.com/myarist/Dicoding/blob/main/Project/Tweet%20Emotion%20Classification%20-%20NLP.ipynb)]
 
         <a href="#">
             <img src="README/TweetEmotion.png">
@@ -91,6 +97,8 @@
         <a href="#">
             <img src="README/TSForecast.png">
         </a>
+  
+    </details>
 
 </details>
 
