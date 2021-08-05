@@ -98,7 +98,7 @@
             <img src="README/TSForecast.png">
         </a>
 
-    - Animal Classification and Model Deployment [[📁](https://github.com/myarist/Dicoding/blob/main/Project/Animal%Classification%20-%20Image.ipynb)]
+    - Animal Classification and Model Deployment [[📁](https://github.com/myarist/Dicoding/blob/main/Project/Animals%20Classification%20-%20Image.ipynb)]
 
         <a href="#">
             <img src="README/Cat.png">
